@@ -2,18 +2,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349155298855"
-global.ownername = "Voltage Lord👑"
+global.ownernomer = "+18296034902"
+global.ownername = "TOᗰᗰY"
 global.ytname = "YT: Voltagelordprotech"
 global.socialm = "GitHub: VoltageLord"
 global.location = "Nigeria, Edo, Benin"
 
-global.ownernumber = '2349155298855'  //creator number
+global.ownernumber = '18296034902'  //creator number
 global.ownername = 'Voltage Lord' //owner name
 global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'Thomas SHELBY Grimm 
 global.author = 'VOLTAGE 👑\n\nContact: +2349155298855'
 
 //console view/theme
